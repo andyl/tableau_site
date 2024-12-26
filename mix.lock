@@ -1,0 +1,3 @@
+%{
+  "table_rex": {:git, "https://github.com/djm/table_rex.git", "e744f687fdd22ccf1cd2d8417e630e13756adbc9", []},
+}
